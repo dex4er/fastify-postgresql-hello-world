@@ -1,4 +1,4 @@
-# fastify-hello-world
+# fastify-postgresql-hello-world
 
 Example Fastify application which uses PostgreSQL database.
 
