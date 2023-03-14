@@ -1,6 +1,6 @@
 # fastify-hello-world
 
-Example Fastify application
+Example Fastify application which uses PostgreSQL database.
 
 ## Usage
 
@@ -8,3 +8,15 @@ Example Fastify application
 npm ci
 npm start
 ```
+
+## Configuration
+
+Environment variables:
+
+- POSTGRES_HOST
+- POSTGRES_PORT
+- POSTGRES_DB
+- POSTGRES_PASSWORD
+- POSTGRES_USER
+- SERVER_HOST
+- SERVER_PORT
